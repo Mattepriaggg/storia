@@ -91,6 +91,7 @@ body.scroll-down{
     .foto{
         width: 0px;
         height: 0px;
+        left: 30vh;
     }
     #c2_2{
         width: auto;
