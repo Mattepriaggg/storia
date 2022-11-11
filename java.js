@@ -7,7 +7,7 @@ window.addEventListener('scroll', function() {
 } )
 
 window.addEventListener('scroll', function() {
-    if(window.scrollY > 600) {
+    if(window.scrollY > 1000) {
         document.body.classList.add('scroll-down2')
     } else {
         this.document.body.classList.remove('scroll-down2')

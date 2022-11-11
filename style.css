@@ -41,6 +41,7 @@ body.scroll-down2{
 
 .in{
     color: black;
+    margin-left: 20px;
 }
 .justify{
     text-align: justify;
@@ -53,10 +54,11 @@ body.scroll-down2{
     font-family: "Segoe UI",Arial,sans-serif;
     text-shadow: 2px 2px 3px #00b4d8;
     top: -10vh;
-    margin-top: -30vh;
+    margin-top: -50vh;
+    margin-left: 20px;
 }
 
-/*-- ANIMATION --
+/*-- ANIMATION --*/
 @keyframes fadeIn-body {
     0%{
         opacity: 0%;
@@ -64,7 +66,7 @@ body.scroll-down2{
     100%{
         opacity: 100%;
     }
-}*/
+}
 
 .fade-in{
     animation: fadeIn-body 2s;
